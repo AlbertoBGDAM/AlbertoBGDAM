@@ -18,100 +18,110 @@ Con el tiempo he ampliado mis conocimientos hacia la ciencia de datos, la automa
 
 ---
 
+---
+
 ## 🚀 Stack tecnológico
 
-### 💻 Lenguajes (core)
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 💻 Lenguajes
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28"/>
 </p>
 
-### 🧪 Lenguajes secundarios
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-</p>
-
----
+</td>
+<td valign="top" width="33%">
 
 ### 🌐 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28"/>
 </p>
 
+Axios (API calls)
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend & Data
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28"/>
+</p>
+
+- Flask  
+- Pandas  
+- Matplotlib  
+- Jupyter  
+
+</td>
+</tr>
+</table>
+
 ---
 
-### ⚙️ Backend
-- Python (Flask)
-- Node.js
-- PHP
-
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 🗄️ Bases de datos
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="28"/>
 </p>
 
----
+phpMyAdmin (gestión MySQL)
 
-### 📊 Data Science
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-</p>
-
-- Pandas
-- Matplotlib
-- Jupyter Notebooks
-- Análisis de datos
-
----
-
-### 🎨 UI / Frontend libraries
-- Bootstrap
-- Vuetify
-- PrimeVue
-- Axios
-
----
+</td>
+<td valign="top" width="50%">
 
 ### 🧰 Herramientas
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="28"/>
+</p>
 
-- Docker (entornos de desarrollo)
-- AWS (uso en proyectos del equipo)
-- npm / npx
-- Eclipse
-- Linux / Ubuntu
-- Oracle (uso puntual)
-- PostgreSQL / phpMyAdmin (gestión de bases de datos)
+AWS (uso en equipo)  
+Linux / Ubuntu  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎮 Otros / Experimentos
+## 🎮 Experimentos
 
-- Lua + LÖVE2D (proyectos personales / juegos 2D)
-- Java (prácticas y proyectos personales)
-- C (ejercicios y lógica)
+- Lua + LÖVE2D (juegos 2D)
 - Discord bots / herramientas gaming
-- JSON / APIs / herramientas de desarrollo
+- JSON / APIs / scripting
+- Java & C (prácticas personales)
 
 ---
 
 ## 🔒 Certificaciones
 
-- IBM Data Science Professional Certificate  
-- IBM Data Analysis Professional Certificate  
-- IBM Cybersecurity Certificate  
+- IBM Data Science  
+- IBM Data Analysis  
+- IBM Cybersecurity  
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/AlbertoBGDAM
-- LinkedIn: https://www.linkedin.com/in/alberto-barcala-guti%C3%A9rrez-510191308/
+- GitHub: https://github.com/AlbertoBGDAM  
+- LinkedIn: https://www.linkedin.com/in/alberto-barcala-guti%C3%A9rrez-510191308/  
 - Email: barcalaalberto@gmail.com
