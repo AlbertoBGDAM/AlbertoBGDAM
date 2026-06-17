@@ -22,21 +22,19 @@ Con el tiempo he ampliado mis conocimientos hacia la ciencia de datos, la automa
 
 *Me gusta mantener las cosas ordenadas y eficientes. Estas son las herramientas con las que trabajo habitualmente:*
 
-<table>
-  <!-- Fila 1: Títulos con el fix para estirar la tabla sin romper el contenedor -->
-  <tr>
-    <td valign="top" width="33%" align="center">
-      <p style="width: 100%; margin: 0;"><b>💻 Lenguajes</b></p>
-    </td>
-    <td valign="top" width="33%" align="center">
-      <p style="width: 100%; margin: 0;"><b>🌐 Frontend</b></p>
-    </td>
-    <td valign="top" width="34%" align="center">
-      <p style="width: 100%; margin: 0;"><b>⚙️ Backend & Data</b></p>
-    </td>
+<table width="100%">
+  <tr style="border: none; background: transparent;">
+    <td width="33.3%" style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="100%" height="1" /></td>
+    <td width="33.3%" style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="100%" height="1" /></td>
+    <td width="33.4%" style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="100%" height="1" /></td>
   </tr>
 
-  <!-- Fila 2: Iconos Superiores -->
+  <tr>
+    <td valign="top" align="center"><b>💻 Lenguajes</b></td>
+    <td valign="top" align="center"><b>🌐 Frontend</b></td>
+    <td valign="top" align="center"><b>⚙️ Backend & Data</b></td>
+  </tr>
+
   <tr>
     <td valign="top" align="center">
       <br>
@@ -70,13 +68,11 @@ Con el tiempo he ampliado mis conocimientos hacia la ciencia de datos, la automa
     </td>
   </tr>
 
-  <!-- Fila 3: Títulos Inferiores -->
   <tr>
     <td valign="top" align="center"><b>🗄️ Bases de Datos</b></td>
     <td valign="top" colspan="2" align="center"><b>🧰 Herramientas & Entorno</b></td>
   </tr>
 
-  <!-- Fila 4: Iconos Inferiores -->
   <tr>
     <td valign="top" align="center">
       <br>
