@@ -1,94 +1,93 @@
-# 👋 Hola, soy Alberto Barcala
+# 👋 ¡Buenas! Soy Alberto
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Python%20%7C%20Angular%20%7C%20JavaScript-blue?style=for-the-badge&labelColor=23272A" alt="Role"/>
-  <img src="https://img.shields.io/badge/Salamanca,%20Espa%C3%B1a-E65C00?style=for-the-badge&logo=locationiq&logoColor=white" alt="Location"/>
+**Full Stack Developer · Python · Angular · JavaScript · Data**  
+📍 Salamanca, España
+
+---
+
+## 💡 Un poco sobre mí
+
+Soy desarrollador Full Stack con **2 años de experiencia profesional**, especializado en dar forma a aplicaciones web y diseñar APIs robustas. 
+
+Mi día a día se mueve entre la lógica del backend y el dinamismo del frontend. Aunque mi punto de partida fue el **Desarrollo de Aplicaciones Multiplataforma (DAM)**, siempre me ha picado la curiosidad por ir más allá. Por eso, con el tiempo he ido expandiendo mi terreno hacia la ciencia de datos, la automatización y el juego en equipo con herramientas cloud.
+
+Me apasiona trastear, aprender tecnologías nuevas y resolver problemas reales picando código limpio.
+
+---
+
+## 🚀 Mi Stack Tecnológico
+
+*Me gusta mantener las cosas ordenadas y eficientes. Estas son las herramientas con las que trabajo habitualmente:*
+
+### 💻 Lenguajes de programación
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,c" />
+  </a>
+</p>
+
+### 🌐 Desarrollo Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,vue,vite,bootstrap" />
+  </a>
+</p>
+<p><em>E integración fluida con APIs mediante <strong>Axios</strong>.</em></p>
+
+### ⚙️ Backend & Data Science
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,nodejs,php" />
+  </a>
+</p>
+<p><em>Análisis y visualización de datos con <strong>Pandas</strong>, <strong>Matplotlib</strong> y entornos <strong>Jupyter</strong>.</em></p>
+
+### 🗄️ Gestión de Bases de Datos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+  </a>
+</p>
+<p><em>Administración ágil mediante <strong>phpMyAdmin</strong>.</em></p>
+
+### 🧰 Entorno & Herramientas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,npm,aws,eclipse" />
+  </a>
 </p>
 
 ---
 
-### 💡 Sobre mí
+## 🎮 En mis ratos libres (Experimentos)
 
-Soy desarrollador Full Stack con **2 años de experiencia profesional**, especializado en el desarrollo de aplicaciones web y APIs. 
+Cuando no estoy trabajando en proyectos principales, me gusta explorar el desarrollo de software desde un lado más lúdico y experimental:
 
-He trabajado en entornos de desarrollo donde participo en la implementación de funcionalidades backend y frontend, utilizando principalmente Python, JavaScript/TypeScript y frameworks modernos como Angular.
-
-- 🎓 Formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-- 📈 Conocimientos ampliados hacia la ciencia de datos, automatización y herramientas cloud.
-- 👥 Habituado al trabajo en equipo y metodologías ágiles.
-
----
-
-### 🚀 Stack tecnológico
-
-#### 💻 Lenguajes & Frontend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-*Otras herramientas frontend: Axios (API calls)*
-
-#### ⚙️ Backend, Bases de Datos & Data
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-*Librerías y gestión: Pandas, Matplotlib, Jupyter, phpMyAdmin*
-
-#### 🧰 Herramientas & Entornos
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+* 🕹️ **Lua + LÖVE2D:** Creando pequeños videojuegos en dos dimensiones.
+* 🤖 **Bots de Discord:** Automatizaciones, integraciones y herramientas enfocadas al gaming.
+* 🛠️ **Scripting puro:** Manipulación de datos, consumo de APIs y flujos con JSON.
+* ☕ **Algoritmia:** Prácticas personales para mantener frescos mis fundamentos en *Java* y *C*.
 
 ---
 
-### 🎮 Experimentos y Proyectos Personales
+## 🔒 Certificaciones
 
-- 🕹️ **Lua + LÖVE2D:** Desarrollo de videojuegos 2D.
-- 🤖 **Discord Bots:** Creación de herramientas gaming y automatización de servidores.
-- ⚙️ **Scripting & APIs:** Manipulación de datos estructurados con JSON.
-- ☕ **Java & C:** Prácticas y desafíos algorítmicos personales.
-
----
-
-### 🔒 Certificaciones
-
-- 🎓 **IBM** Data Science
-- 📊 **IBM** Data Analysis
-- 🛡️ **IBM** Cybersecurity
+* 📈 **IBM Data Science**
+* 📊 **IBM Data Analysis**
+* 🛡️ **IBM Cybersecurity**
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 📫 ¿Hablamos?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoBGDAM&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Alberto" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoBGDAM&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="160"/>
-</p>
-
----
-
-### 📫 Contacto
+Si te apetece charlar sobre algún proyecto, tienes dudas o simplemente quieres conectar, me tienes disponible por aquí:
 
 <p align="left">
-  <a href="https://linkedin.com/in/alberto-barcala-guti%C3%A9rrez-510191308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/alberto-barcala-guti%C3%A9rrez-510191308/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alberto%20Barcala-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:barcalaalberto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/AlbertoBGDAM">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-barcalaalberto%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
