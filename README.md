@@ -19,43 +19,56 @@ Me apasiona trastear, aprender tecnologías nuevas y resolver problemas reales p
 
 *Me gusta mantener las cosas ordenadas y eficientes. Estas son las herramientas con las que trabajo habitualmente:*
 
-### 💻 Lenguajes de programación
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,c" />
-  </a>
-</p>
+<table>
+  <!-- Fila 1: Lenguajes, Frontend y Backend -->
+  <tr>
+    <td valign="top" width="33%" style="border: none; padding: 20px;">
+      <h3>💻 Lenguajes</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,js,ts,java,c&perline=3" alt="Lenguajes" />
+      </a>
+    </td>
+    <td valign="top" width="33%" style="border: none; padding: 20px;">
+      <h3>🌐 Frontend</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,vue,vite,bootstrap&perline=3" alt="Frontend" />
+      </a>
+      <br><br>
+      <p><em>Integración fluida de APIs mediante <strong>Axios</strong>.</em></p>
+    </td>
+    <td valign="top" width="33%" style="border: none; padding: 20px;">
+      <h3>⚙️ Backend & Data</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask,nodejs,php&perline=3" alt="Backend" />
+      </a>
+      <br><br>
+      <p><em>Análisis con <strong>Pandas</strong>, <strong>Matplotlib</strong> y <strong>Jupyter</strong>.</em></p>
+    </td>
+  </tr>
 
-### 🌐 Desarrollo Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,vue,vite,bootstrap" />
-  </a>
-</p>
-<p><em>E integración fluida con APIs mediante <strong>Axios</strong>.</em></p>
-
-### ⚙️ Backend & Data Science
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,nodejs,php" />
-  </a>
-</p>
-<p><em>Análisis y visualización de datos con <strong>Pandas</strong>, <strong>Matplotlib</strong> y entornos <strong>Jupyter</strong>.</em></p>
-
-### 🗄️ Gestión de Bases de Datos
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
-  </a>
-</p>
-<p><em>Administración ágil mediante <strong>phpMyAdmin</strong>.</em></p>
-
-### 🧰 Entorno & Herramientas
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,npm,aws,eclipse" />
-  </a>
-</p>
+  <!-- Fila 2: Bases de Datos y Herramientas -->
+  <tr>
+    <td valign="top" width="50%" colspan="1" style="border: none; padding: 20px;">
+      <h3>🗄️ Bases de Datos</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" alt="Bases de datos" />
+      </a>
+      <br><br>
+      <p><em>Administración ágil mediante <strong>phpMyAdmin</strong>.</em></p>
+    </td>
+    <td valign="top" width="50%" colspan="2" style="border: none; padding: 20px;">
+      <h3>🧰 Herramientas & Entorno</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,npm,aws,eclipse&perline=4" alt="Herramientas" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
