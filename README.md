@@ -106,7 +106,6 @@ Con el tiempo he ampliado mis conocimientos hacia la ciencia de datos, la automa
 ## 🎮 Experimentos
 
 - **Lua + LÖVE2D:** Creación de pequeños juegos en 2D.
-- **Discord bots:** Desarrollo de herramientas orientadas al gaming y automatización.
 - **APIs & Scripting:** Manipulación de flujos y estructuras con JSON.
 - **Java & C:** Desafíos algorítmicos y prácticas personales de fundamentos.
 
