@@ -8,8 +8,11 @@
 
 ## 💡 Sobre mí
 
-Desarrollador Full Stack enfocado en aplicaciones web, APIs y análisis de datos.  
-Me interesa el desarrollo backend, la nube, la automatización y la ciberseguridad.
+Soy desarrollador Full Stack con base en la Formación Profesional de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde inicié mi camino en el desarrollo de software.
+
+A partir de ahí he evolucionado hacia el desarrollo web, trabajando con aplicaciones full stack, APIs y despliegues en la nube.
+
+Me interesa especialmente el desarrollo backend, la ciencia de datos, la automatización y la ciberseguridad.
 
 ---
 
