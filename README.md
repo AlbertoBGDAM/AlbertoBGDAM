@@ -19,57 +19,64 @@ Me apasiona trastear, aprender tecnologías nuevas y resolver problemas reales p
 
 *Me gusta mantener las cosas ordenadas y eficientes. Estas son las herramientas con las que trabajo habitualmente:*
 
-<table>
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <!-- Fila 1: Lenguajes, Frontend y Backend -->
-  <tr>
-    <td valign="top" width="33%" style="border: none; padding: 20px;">
-      <h3>💻 Lenguajes</h3>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js,ts,java,c&perline=3" alt="Lenguajes" />
-      </a>
+  <tr style="border: none;">
+    <td valign="top" width="33%" style="border: none; padding: 25px 15px;">
+      <h3 style="margin-bottom: 15px;">💻 Lenguajes</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34"/>
+      </p>
     </td>
-    <td valign="top" width="33%" style="border: none; padding: 20px;">
-      <h3>🌐 Frontend</h3>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,vue,vite,bootstrap&perline=3" alt="Frontend" />
-      </a>
-      <br><br>
-      <p><em>Integración fluida de APIs mediante <strong>Axios</strong>.</em></p>
+    <td valign="top" width="33%" style="border: none; padding: 25px 15px;">
+      <h3 style="margin-bottom: 15px;">🌐 Frontend</h3>
+      <p style="margin-bottom: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="34"/>
+      </p>
+      <p><font color="#8b949e" size="2"><i>Axios para integración de APIs</i></font></p>
     </td>
-    <td valign="top" width="33%" style="border: none; padding: 20px;">
-      <h3>⚙️ Backend & Data</h3>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,nodejs,php&perline=3" alt="Backend" />
-      </a>
-      <br><br>
-      <p><em>Análisis con <strong>Pandas</strong>, <strong>Matplotlib</strong> y <strong>Jupyter</strong>.</em></p>
+    <td valign="top" width="34%" style="border: none; padding: 25px 15px;">
+      <h3 style="margin-bottom: 15px;">⚙️ Backend & Data</h3>
+      <p style="margin-bottom: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34"/>
+      </p>
+      <p><font color="#8b949e" size="2"><i>Flask · Pandas · Matplotlib · Jupyter</i></font></p>
     </td>
   </tr>
 
   <!-- Fila 2: Bases de Datos y Herramientas -->
-  <tr>
-    <td valign="top" width="50%" colspan="1" style="border: none; padding: 20px;">
-      <h3>🗄️ Bases de Datos</h3>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" alt="Bases de datos" />
-      </a>
-      <br><br>
-      <p><em>Administración ágil mediante <strong>phpMyAdmin</strong>.</em></p>
+  <tr style="border: none;">
+    <td valign="top" width="33%" style="border: none; padding: 25px 15px;">
+      <h3 style="margin-bottom: 15px;">🗄️ Bases de Datos</h3>
+      <p style="margin-bottom: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="34"/>
+      </p>
+      <p><font color="#8b949e" size="2"><i>Gestión mediante phpMyAdmin</i></font></p>
     </td>
-    <td valign="top" width="50%" colspan="2" style="border: none; padding: 20px;">
-      <h3>🧰 Herramientas & Entorno</h3>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,npm,aws,eclipse&perline=4" alt="Herramientas" />
-      </a>
+    <td valign="top" colspan="2" style="border: none; padding: 25px 15px;">
+      <h3 style="margin-bottom: 15px;">🧰 Herramientas & Entorno</h3>
+      <p style="margin-bottom: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="34"/>
+      </p>
+      <p><font color="#8b949e" size="2"><i>AWS (uso en equipo) · Entornos Linux / Ubuntu</i></font></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎮 En mis ratos libres (Experimentos)
