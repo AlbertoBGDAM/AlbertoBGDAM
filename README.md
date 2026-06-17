@@ -1,17 +1,20 @@
-# 👋 ¡Buenas! Soy Alberto
+# 👋 Hola, soy Alberto
 
-**Full Stack Developer · Python · Angular · JavaScript · Data**  
+**Full Stack Developer · Python · Angular · JavaScript · Data**
+
 📍 Salamanca, España
 
 ---
 
-## 💡 Un poco sobre mí
+## 💡 Sobre mí
 
-Soy desarrollador Full Stack con **2 años de experiencia profesional**, especializado en dar forma a aplicaciones web y diseñar APIs robustas. 
+Soy desarrollador Full Stack con **2 años de experiencia profesional**, especializado en el desarrollo de aplicaciones web y APIs.
 
-Mi día a día se mueve entre la lógica del backend y el dinamismo del frontend. Aunque mi punto de partida fue el **Desarrollo de Aplicaciones Multiplataforma (DAM)**, siempre me ha picado la curiosidad por ir más allá. Por eso, con el tiempo he ido expandiendo mi terreno hacia la ciencia de datos, la automatización y el juego en equipo con herramientas cloud.
+He trabajado en entornos de desarrollo donde participo en la implementación de funcionalidades backend y frontend, utilizando principalmente Python, JavaScript/TypeScript y frameworks modernos como Angular.
 
-Me apasiona trastear, aprender tecnologías nuevas y resolver problemas reales picando código limpio.
+Tengo formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, que fue mi punto de entrada al mundo del desarrollo de software.
+
+Con el tiempo he ampliado mis conocimientos hacia la ciencia de datos, la automatización y el uso de herramientas cloud en entornos de equipo.
 
 ---
 
@@ -19,95 +22,35 @@ Me apasiona trastear, aprender tecnologías nuevas y resolver problemas reales p
 
 *Me gusta mantener las cosas ordenadas y eficientes. Estas son las herramientas con las que trabajo habitualmente:*
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <!-- Fila 1: Lenguajes, Frontend y Backend -->
-  <tr style="border: none;">
-    <td valign="top" width="33%" style="border: none; padding: 25px 15px;">
-      <h3 style="margin-bottom: 15px;">💻 Lenguajes</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34"/>
-      </p>
-    </td>
-    <td valign="top" width="33%" style="border: none; padding: 25px 15px;">
-      <h3 style="margin-bottom: 15px;">🌐 Frontend</h3>
-      <p style="margin-bottom: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="34"/>
-      </p>
-      <p><font color="#8b949e" size="2"><i>Axios para integración de APIs</i></font></p>
-    </td>
-    <td valign="top" width="34%" style="border: none; padding: 25px 15px;">
-      <h3 style="margin-bottom: 15px;">⚙️ Backend & Data</h3>
-      <p style="margin-bottom: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34"/>
-      </p>
-      <p><font color="#8b949e" size="2"><i>Flask · Pandas · Matplotlib · Jupyter</i></font></p>
-    </td>
-  </tr>
+| ### 💻 Lenguajes | ### 🌐 Frontend | ### ⚙️ Backend & Data |
+| :--- | :--- | :--- |
+| <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48"/> <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48"/> <br><br> | <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/> <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48"/> <br><br> *Axios para integración de APIs* | <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48"/> <br><br><br> *Flask · Pandas · Matplotlib · Jupyter* |
 
-  <!-- Fila 2: Bases de Datos y Herramientas -->
-  <tr style="border: none;">
-    <td valign="top" width="33%" style="border: none; padding: 25px 15px;">
-      <h3 style="margin-bottom: 15px;">🗄️ Bases de Datos</h3>
-      <p style="margin-bottom: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="34"/>
-      </p>
-      <p><font color="#8b949e" size="2"><i>Gestión mediante phpMyAdmin</i></font></p>
-    </td>
-    <td valign="top" colspan="2" style="border: none; padding: 25px 15px;">
-      <h3 style="margin-bottom: 15px;">🧰 Herramientas & Entorno</h3>
-      <p style="margin-bottom: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="34"/>
-      </p>
-      <p><font color="#8b949e" size="2"><i>AWS (uso en equipo) · Entornos Linux / Ubuntu</i></font></p>
-    </td>
-  </tr>
-</table>
+| ### 🗄️ Bases de Datos | ### 🧰 Herramientas & Entorno |
+| :--- | :--- |
+| <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/> <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/> <br><br> *Gestión mediante phpMyAdmin* | <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48"/> <br><br><br> *AWS (uso en equipo) · Entornos Linux / Ubuntu* |
+
 ---
 
-## 🎮 En mis ratos libres (Experimentos)
+## 🎮 Experimentos
 
-Cuando no estoy trabajando en proyectos principales, me gusta explorar el desarrollo de software desde un lado más lúdico y experimental:
-
-* 🕹️ **Lua + LÖVE2D:** Creando pequeños videojuegos en dos dimensiones.
-* 🤖 **Bots de Discord:** Automatizaciones, integraciones y herramientas enfocadas al gaming.
-* 🛠️ **Scripting puro:** Manipulación de datos, consumo de APIs y flujos con JSON.
-* ☕ **Algoritmia:** Prácticas personales para mantener frescos mis fundamentos en *Java* y *C*.
+- **Lua + LÖVE2D:** Creación de pequeños juegos en 2D.
+- **Discord bots:** Desarrollo de herramientas orientadas al gaming y automatización.
+- **APIs & Scripting:** Manipulación de flujos y estructuras con JSON.
+- **Java & C:** Desafíos algorítmicos y prácticas personales de fundamentos.
 
 ---
 
 ## 🔒 Certificaciones
 
-* 📈 **IBM Data Science**
-* 📊 **IBM Data Analysis**
-* 🛡️ **IBM Cybersecurity**
+- 🎓 IBM Data Science  
+- 📊 IBM Data Analysis  
+- 🛡️ IBM Cybersecurity  
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 Contacto
 
-Si te apetece charlar sobre algún proyecto, tienes dudas o simplemente quieres conectar, me tienes disponible por aquí:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alberto-barcala-guti%C3%A9rrez-510191308/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alberto%20Barcala-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:barcalaalberto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-barcalaalberto%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
-  </a>
-</p>
+- **GitHub:** [github.com/AlbertoBGDAM](https://github.com/AlbertoBGDAM)  
+- **LinkedIn:** [linkedin.com/in/alberto-barcala-gutiérrez](https://www.linkedin.com/in/alberto-barcala-guti%C3%A9rrez-510191308/)  
+- **Email:** barcalaalberto@gmail.com
