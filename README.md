@@ -8,95 +8,60 @@
 
 ## 💡 Sobre mí
 
-Soy desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web, APIs y despliegues en la nube.
-
-Trabajo principalmente con **Python (Flask)** y **Angular**, y también tengo experiencia con **Node.js, PHP, bases de datos SQL/NoSQL y entornos Linux**.
-
-Me interesa especialmente la **Ciencia de Datos, la automatización y la ciberseguridad**, donde he trabajado con proyectos prácticos y certificaciones.
+Desarrollador Full Stack enfocado en aplicaciones web, APIs y análisis de datos.  
+Me interesa el desarrollo backend, la nube, la automatización y la ciberseguridad.
 
 ---
 
 ## 🚀 Stack tecnológico
 
 ### 💻 Frontend
-- Angular
-- Vue.js
-- TypeScript
-- JavaScript
-- HTML5 / CSS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</p>
 
 ### ⚙️ Backend
-- Python (Flask)
-- Node.js
-- PHP
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+</p>
 
 ### 🗄️ Bases de datos
-- SQL
-- MongoDB
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-- Docker
-- AWS
-- Linux / Ubuntu
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</p>
 
 ### 📊 Data Science
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebooks
-- Data Analysis
-
-### 🔧 Otros lenguajes
-- Java
-- C
-- Lua (LÖVE)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+</p>
 
 ---
 
-## 📊 Data Science Projects
-
-### 🚀 SpaceX Landing Prediction
-Proyecto de análisis y predicción de aterrizajes de cohetes usando machine learning.
-
-**Stack:** Python · Pandas · Scikit-Learn · SQL · Jupyter
-
----
-
-### 📈 Data Analysis & Visualization
-Exploración y visualización de datos con notebooks interactivos.
-
-**Stack:** Python · Pandas · Matplotlib · Plotly
-
----
-
-### 📊 Dashboards de análisis de datos
-Creación de dashboards para extraer insights de datasets reales.
-
----
 
 ## 🔒 Certificaciones
 
-- IBM Data Science Professional Certificate  
-- IBM Data Analyst Professional Certificate  
-- IBM Cybersecurity Certificate  
-
----
-
-## 🎯 Intereses
-
-- Desarrollo Full Stack
-- Desarrollo de videojuegos
-- Arquitecturas Cloud
-- Automatización
-- Ciencia de Datos
-- Ciberseguridad
-- Open Source
+- IBM Data Science
+- IBM Data Analysis
+- IBM Cybersecurity
 
 ---
 
 ## 📫 Contacto
 
 - GitHub: https://github.com/AlbertoBGDAM
-- LinkedIn: TU_LINKEDIN
-- Email: TU_EMAIL
+- LinkedIn: https://www.linkedin.com/in/alberto-barcala-guti%C3%A9rrez-510191308/
+- Email: barcalaalberto@gmail.com
