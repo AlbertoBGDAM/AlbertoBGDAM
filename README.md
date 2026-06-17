@@ -22,68 +22,11 @@ Con el tiempo he ampliado mis conocimientos hacia la ciencia de datos, la automa
 
 *Me gusta mantener las cosas ordenadas y eficientes. Estas son las herramientas con las que trabajo habitualmente:*
 
-<table width="100%">
-  <!-- FILA 1: TRES COLUMNAS EQUILIBRADAS -->
-  <tr>
-    <td width="33.33%" valign="top" align="center">
-      <b>💻 Lenguajes</b>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-    </td>
-    <td width="33.33%" valign="top" align="center">
-      <b>🌐 Frontend</b>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-      <br><br>
-      <sub><i>Axios para integración de APIs</i></sub>
-    </td>
-    <td width="33.34%" valign="top" align="center">
-      <b>⚙️ Backend & Data</b>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-      <br><br>
-      <sub><i>Flask · Pandas · Matplotlib · Jupyter</i></sub>
-    </td>
-  </tr>
-
-  <!-- FILA 2: BASES DE DATOS Y HERRAMIENTAS -->
-  <tr>
-    <td valign="top" align="center">
-      <br>
-      <b>🗄️ Bases de Datos</b>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-      <br><br>
-      <sub><i>Gestión mediante phpMyAdmin</i></sub>
-    </td>
-    <td colspan="2" valign="top" align="center">
-      <br>
-      <b>🧰 Herramientas & Entorno</b>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40"/>
-      <br><br>
-      <sub><i>AWS (uso en equipo) · Entornos Linux / Ubuntu</i></sub>
-    </td>
-  </tr>
-</table>
+| 💻 Lenguajes | 🌐 Frontend | ⚙️ Backend & Data |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/> <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42"/> <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42"/> <br><br> <sub>*Axios para integración de APIs*</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42"/> <br><br><br> <sub>*Flask · Pandas · Matplotlib · Jupyter*</sub> |
+| 🗄️ **Bases de Datos** | 🧰 **Herramientas & IDEs** | 💻 **Entorno** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/> <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42"/> <br><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/> <br><br> <sub>*AWS (uso en equipo)*<br>*Entornos Linux / Ubuntu*</sub> |
 ---
 
 ## 🎮 Experimentos
