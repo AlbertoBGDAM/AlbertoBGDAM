@@ -37,7 +37,6 @@ Me interesa especialmente el desarrollo backend, la ciencia de datos, la automat
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" height="40"/>
 </p>
 
 ### ☁️ Cloud & DevOps
