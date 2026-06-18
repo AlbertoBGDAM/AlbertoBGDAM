@@ -122,5 +122,5 @@ Con el tiempo he ampliado mis conocimientos hacia la ciencia de datos, la automa
 ## 📫 Contacto
 
 - **GitHub:** [github.com/AlbertoBGDAM](https://github.com/AlbertoBGDAM)  
-- **LinkedIn:** [Alberto Barcala Gutiérrez](www.linkedin.com/in/alberto-b-510191308)
+- **LinkedIn:** [Alberto Barcala](https://www.linkedin.com/in/alberto-b-510191308/)
 - **Email:** barcalaalberto@gmail.com
